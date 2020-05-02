@@ -5,7 +5,7 @@
 }
 .nameText {
   padding-left: 30px;
-  font-family: 'Fugaz One', cursive;
+  font-family: 'Galada', cursive;
 }
 .nameText:hover {
   color: white;
@@ -79,7 +79,8 @@ nav ul li a:hover::after {
   transform: scaleX(1);
 }
 .navBtns {
-  font-family: 'Fugaz One', cursive;
+  font-family: 'Galada', cursive;
+  font-size: 18px;
   margin-left: 60%;
 }
 

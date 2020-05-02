@@ -20,12 +20,11 @@
 }
 
 .btnContinue {
-  font-family: 'Oleo Script', cursive;
+  font-family: 'Galada', cursive;
   width: 250px;
   background-color: rgb(132, 180, 219);
   text-align: center;
   color: rgb(255, 255, 255);
-  margin-top: 20px;
 
   border-radius: 15px;
   font-weight: bold;
@@ -42,9 +41,10 @@
 }
 .youText {
   color: rgb(235, 103, 103);
+  margin-top: 10px;
 }
 .innerFont1 {
-  font-family: 'Oleo Script', cursive;
+  font-family: 'Galada', cursive;
   font-size: 27px;
   font-weight: bold;
   padding: 9px;
@@ -82,7 +82,7 @@
 }
 @media only screen and (max-width: 1860px) {
   .btnContinue {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     width: 250px;
     background-color: rgb(110, 148, 89);
     text-align: center;
@@ -99,7 +99,7 @@
     margin: 0 auto;
   }
   .innerFont1 {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     font-size: 27px;
     font-weight: bold;
     padding: 10px;
@@ -110,7 +110,7 @@
 }
 @media only screen and (max-width: 940px) {
   .btnContinue {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     width: 250px;
     background-color: rgb(110, 148, 89);
     text-align: center;
@@ -127,7 +127,7 @@
     margin: 0 auto;
   }
   .innerFont1 {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     font-size: 27px;
     font-weight: bold;
     padding: 10px;
@@ -138,7 +138,7 @@
 }
 @media only screen and (max-width: 640px) {
   .btnContinue {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     width: 250px;
     background-color: rgb(110, 148, 89);
     text-align: center;
@@ -154,7 +154,7 @@
     margin: 0 auto;
   }
   .innerFont1 {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     font-size: 27px;
     font-weight: bold;
     padding: 10px;
@@ -167,7 +167,7 @@
 
 @media only screen and (max-width: 480px) {
   .btnContinue {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     width: 250px;
     background-color: rgb(110, 148, 89);
     text-align: center;
@@ -183,7 +183,7 @@
     margin: 0 auto;
   }
   .innerFont1 {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     font-size: 27px;
     font-weight: bold;
     padding: 10px;
@@ -195,7 +195,7 @@
 }
 @media only screen and (max-width: 320px) {
   .btnContinue {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     width: 250px;
     background-color: rgb(110, 148, 89);
     text-align: center;
@@ -212,7 +212,7 @@
     margin: 0 auto;
   }
   .innerFont1 {
-    font-family: 'Oleo Script', cursive;
+    font-family: 'Galada', cursive;
     font-size: 27px;
     font-weight: bold;
     padding: 10px;
