@@ -1,0 +1,235 @@
+.portfolioBTN {
+  font-weight: bold;
+}
+#portfolio {
+  margin-top: 25%;
+}
+.portfolioSection {
+  padding-left: 10%;
+}
+.appButtons {
+  font-family: 'Fugaz One', cursive;
+  font-weight: bold;
+}
+.appButtons:hover {
+  font-size: 20px;
+}
+
+.completeWebsite {
+  background-image: url('https://as1.ftcdn.net/jpg/00/85/93/90/500_F_85939072_6NNb6t372lQr27q4czUytlBKfM28rHAn.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 10%;
+}
+.frontEndSite {
+  background-image: url('https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18196306.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 10%;
+}
+.applications {
+  background-image: url('https://cdn.xl.thumbs.canstockphoto.com/application-word-cloud-business-concept-clipart-vector_csp45194957.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 10%;
+}
+.maintenance {
+  background-image: url('https://cdn2.vectorstock.com/i/1000x1000/81/66/word-cloud-software-maintenance-vector-2818166.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 10%;
+}
+.businessCards {
+  background-image: url('https://ak5.picdn.net/shutterstock/videos/28744885/thumb/8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 10%;
+}
+.custom {
+  background-image: url('https://lh3.googleusercontent.com/proxy/yQgD6wdd--XOBOy05rpnC4xu4ETF4F4BJE0B_gpNSquwMbAeqLjrfOMJh4w8qHA5tgdIrSDHE3BmjQ9lz9dgyM9iXDd29oec3xKfPeWfEJuZfDiLfwvhyvBa5YyMOcZbSuRpSlf_cxxiuQc');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 10%;
+}
+.btnToView {
+  font-family: 'Oleo Script', cursive;
+  width: 250px;
+  background-color: rgb(211, 211, 211);
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+  border-radius: 15px;
+  font-weight: bold;
+}
+.btnToView:hover {
+  background-color: rgb(246, 245, 245);
+}
+.card {
+  width: 100%;
+}
+.firstTextRow {
+  margin-top: 30px;
+}
+.secondTextRow {
+  margin-top: 40px;
+}
+
+.secondCol {
+  box-shadow: 0px 2px 51px 0px rgba(0, 0, 0, 0.2);
+
+  border-top: 3px solid rgb(241, 241, 241);
+  border-bottom: 3px solid rgb(241, 241, 241);
+  padding-top: 80px;
+  padding-bottom: 100px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.footerArrow {
+  color: grey;
+  font-weight: bold;
+  opacity: 0.6;
+  margin: 10% auto;
+  font-size: 30px;
+  padding-right: 15%;
+}
+.col1Text {
+  font-family: 'Fugaz One', cursive;
+  margin-top: 30%;
+  text-align: left;
+  color: rgb(146, 179, 171);
+}
+.col1secondText {
+  font-family: 'Oleo Script', cursive;
+  text-align: left;
+  margin-top: 10px;
+  font-weight: bold;
+  color: grey;
+}
+
+@media only screen and (max-width: 991px) {
+  .secondCol {
+    margin: 14em auto 0;
+    width: 51%;
+  }
+  .portfolioSection {
+    margin: 0 21%;
+  }
+
+  .footerArrow {
+    display: none;
+
+    /* color: grey;
+    font-weight: bold;
+    opacity: 0.6;
+    margin: 10% auto;
+    font-size: 30px;
+    padding-right: 15%; */
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .secondCol {
+    margin: 14em auto 0;
+    width: 51%;
+  }
+  .portfolioSection {
+    margin: 0 21%;
+  }
+
+  .col1Text {
+    margin-top: 0;
+    text-align: left;
+    color: rgb(126, 144, 25);
+  }
+  .innerText1 {
+    color: gainsboro;
+  }
+  .footerArrow {
+    display: none;
+
+    /* color: grey;
+    font-weight: bold;
+    opacity: 0.6;
+    margin: 10% auto;
+    font-size: 30px;
+    padding-right: 15%; */
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .secondCol {
+    margin: 2em auto 0;
+    width: 100%;
+  }
+
+  .portfolioSection {
+    margin: 0 auto 21%;
+    padding-left: 15%;
+  }
+  .innerText1 {
+    color: gainsboro;
+  }
+  .col1Text {
+    margin-top: 0;
+
+    text-align: left;
+    color: rgb(126, 144, 25);
+  }
+  .footerArrow {
+    display: none;
+    /* color: grey;
+    font-weight: bold;
+    opacity: 0.6;
+    margin: 10% auto;
+    font-size: 30px;
+    padding-right: 15%; */
+  }
+}
+@media only screen and (max-width: 320px) {
+  .secondCol {
+    margin: 2em auto 0;
+    width: 96%;
+  }
+  .innerText1 {
+    color: gainsboro;
+  }
+
+  .col1Text {
+    margin-top: 0;
+
+    text-align: left;
+    color: rgb(126, 144, 25);
+  }
+  .portfolioSection {
+    margin: 0 21%;
+  }
+  .footerArrow {
+    display: none;
+
+    /* color: grey;
+    font-weight: bold;
+    opacity: 0.6;
+    margin: 10% auto;
+    font-size: 30px;
+    padding-right: 15%; */
+  }
+}
