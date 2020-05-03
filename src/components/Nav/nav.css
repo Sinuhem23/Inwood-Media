@@ -5,6 +5,7 @@
 }
 .nameText {
   padding-left: 30px;
+  color: rgb(146, 179, 171);
   font-family: 'Galada', cursive;
 }
 .nameText:hover {

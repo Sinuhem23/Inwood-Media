@@ -12,17 +12,17 @@
 }
 .nameText {
   font-weight: bold;
-  color: rgb(132, 180, 219);
+  color: rgb(146, 179, 171);
   font-size: 30px;
 }
 .nameText:hover {
-  color: rgb(185, 207, 226);
+  color: rgb(172, 204, 196);
 }
 
 .btnContinue {
   font-family: 'Galada', cursive;
   width: 250px;
-  background-color: rgb(132, 180, 219);
+  background-color: rgb(146, 179, 171);
   text-align: center;
   color: rgb(255, 255, 255);
 
