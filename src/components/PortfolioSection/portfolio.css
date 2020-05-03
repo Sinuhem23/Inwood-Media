@@ -10,9 +10,17 @@
 .appButtons {
   font-family: 'Fugaz One', cursive;
   font-weight: bold;
+  color: rgb(132, 180, 219);
 }
 .appButtons:hover {
   font-size: 20px;
+  color: rgb(235, 103, 103);
+}
+.card-text {
+  text-align: center;
+  font-weight: bold;
+
+  color: rgb(146, 179, 171);
 }
 
 .completeWebsite {
@@ -158,7 +166,7 @@
   .col1Text {
     margin-top: 0;
     text-align: left;
-    color: rgb(126, 144, 25);
+    color: rgb(132, 180, 219);
   }
   .innerText1 {
     color: gainsboro;
@@ -192,7 +200,7 @@
     margin-top: 0;
 
     text-align: left;
-    color: rgb(126, 144, 25);
+    color: rgb(132, 180, 219);
   }
   .footerArrow {
     display: none;
@@ -217,7 +225,7 @@
     margin-top: 0;
 
     text-align: left;
-    color: rgb(126, 144, 25);
+    color: rgb(132, 180, 219);
   }
   .portfolioSection {
     margin: 0 21%;

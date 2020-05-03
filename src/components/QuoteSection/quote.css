@@ -9,6 +9,7 @@
   margin-bottom: 233px;
   padding-left: 30px;
   padding-right: 30px;
+  padding-top: 300px;
 }
 .lowerQuote {
   margin-top: 300px;
@@ -18,7 +19,7 @@
 
   background-color: rgb(243, 243, 243);
   text-align: center;
-  color: rgb(235, 103, 103);
+  color: rgb(146, 179, 171);
   border-radius: 15px;
   font-weight: bold;
   font-size: 18px;
@@ -26,10 +27,12 @@
 
 .continueBTN:hover {
   background-color: rgb(255, 255, 255);
+  color: rgb(235, 103, 103);
   font-size: 20px;
 }
 .arrowDown {
   text-align: center;
+  color: rgb(146, 179, 171);
 }
 
 @media only screen and (max-width: 768px) {

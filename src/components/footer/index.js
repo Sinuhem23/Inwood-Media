@@ -16,7 +16,7 @@ export default function FooterSec() {
             <div id='footer' className='footer col-md-4 viewProfileBtn '>
               Contact Us:
               <div className='btn linkedinBTN'>
-                <a href=''>
+                <a href='/'>
                   <i className='fab  fa-linkedin linkedin'></i>
                 </a>
               </div>
