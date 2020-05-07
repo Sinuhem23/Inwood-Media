@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './nav.css';
+import Logo from '../Logo';
 
 /* Set the width of the sidebar to 250px and the left margin of the page content to 250px */
 // function openNav() {
@@ -18,7 +19,7 @@ export default function Nav() {
   return (
     <nav className='navbar navbar-expand-lg navbar-light bg-light '>
       <Link to='/' className='nav-link nameText'>
-        <h3 className='nameText'>Inwood Media</h3>
+        <Logo />
       </Link>
       <button
         className='navbar-toggler navbutton'

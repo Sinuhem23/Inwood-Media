@@ -10,7 +10,7 @@
 .appButtons {
   font-family: 'Fugaz One', cursive;
   font-weight: bold;
-  color: rgb(132, 180, 219);
+  color: rgb(161, 40, 40);
 }
 .appButtons:hover {
   font-size: 20px;
@@ -24,7 +24,7 @@
 }
 
 .completeWebsite {
-  background-image: url('https://as1.ftcdn.net/jpg/00/85/93/90/500_F_85939072_6NNb6t372lQr27q4czUytlBKfM28rHAn.jpg');
+  background-image: url('./Img/Design.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -33,7 +33,7 @@
   border-radius: 10%;
 }
 .frontEndSite {
-  background-image: url('https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX18196306.jpg');
+  background-image: url('./Img/Info.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -42,7 +42,7 @@
   border-radius: 10%;
 }
 .applications {
-  background-image: url('https://cdn.xl.thumbs.canstockphoto.com/application-word-cloud-business-concept-clipart-vector_csp45194957.jpg');
+  background-image: url('./Img/Applications.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -51,7 +51,7 @@
   border-radius: 10%;
 }
 .maintenance {
-  background-image: url('https://cdn2.vectorstock.com/i/1000x1000/81/66/word-cloud-software-maintenance-vector-2818166.jpg');
+  background-image: url('./Img/Maintenance.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -60,7 +60,7 @@
   border-radius: 10%;
 }
 .businessCards {
-  background-image: url('https://ak5.picdn.net/shutterstock/videos/28744885/thumb/8.jpg');
+  background-image: url('./Img/Busines-Card.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -69,7 +69,7 @@
   border-radius: 10%;
 }
 .custom {
-  background-image: url('https://lh3.googleusercontent.com/proxy/yQgD6wdd--XOBOy05rpnC4xu4ETF4F4BJE0B_gpNSquwMbAeqLjrfOMJh4w8qHA5tgdIrSDHE3BmjQ9lz9dgyM9iXDd29oec3xKfPeWfEJuZfDiLfwvhyvBa5YyMOcZbSuRpSlf_cxxiuQc');
+  background-image: url('./Img/IMCustom.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -123,7 +123,7 @@
   font-family: 'Fugaz One', cursive;
   margin-top: 30%;
   text-align: left;
-  color: rgb(146, 179, 171);
+  color: rgb(161, 40, 40);
 }
 .col1secondText {
   font-family: 'Oleo Script', cursive;
@@ -166,7 +166,7 @@
   .col1Text {
     margin-top: 0;
     text-align: left;
-    color: rgb(132, 180, 219);
+    color: rgb(161, 40, 40);
   }
   .innerText1 {
     color: gainsboro;
@@ -200,7 +200,7 @@
     margin-top: 0;
 
     text-align: left;
-    color: rgb(132, 180, 219);
+    color: rgb(161, 40, 40);
   }
   .footerArrow {
     display: none;
@@ -225,7 +225,7 @@
     margin-top: 0;
 
     text-align: left;
-    color: rgb(132, 180, 219);
+    color: rgb(161, 40, 40);
   }
   .portfolioSection {
     margin: 0 21%;
