@@ -1,0 +1,77 @@
+.expressionText {
+  font-family: 'Oleo Script', cursive;
+  font-size: 29px;
+  color: rgb(195, 195, 195);
+  text-align: center;
+  font-weight: bold;
+  margin: 252px auto;
+  margin-bottom: 233px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 300px;
+}
+.lowerQuote {
+  margin-top: 300px;
+}
+.continueBTN {
+  width: 110px;
+
+  background-color: rgb(243, 243, 243);
+  text-align: center;
+  color: rgb(146, 179, 171);
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.continueBTN:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(235, 103, 103);
+  font-size: 20px;
+}
+.arrowDown {
+  text-align: center;
+  color: rgb(146, 179, 171);
+}
+
+@media only screen and (max-width: 768px) {
+  .expressionText {
+    margin: 14em auto 0;
+    width: 43%;
+  }
+  .arrowDown {
+    text-align: center;
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .expressionText {
+    margin: 14em auto 0;
+    width: 51%;
+  }
+  .arrowDown {
+    text-align: center;
+    margin-top: 30px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .expressionText {
+    margin: 2em auto 0;
+    width: 100%;
+  }
+  .arrowDown {
+    text-align: center;
+    margin-top: 50%;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .expressionText {
+    margin: 2em auto 0;
+    width: 96%;
+  }
+  .arrowDown {
+    text-align: center;
+    margin-top: 30px;
+  }
+}

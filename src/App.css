@@ -23,9 +23,18 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+a {
+  color: rgb(132, 180, 219);
+}
+a:hover {
+  color: rgb(146, 179, 171);
+}
 
 .App-link {
-  color: #61dafb;
+  color: rgb(132, 180, 219);
+}
+.App-link:hover {
+  color: rgb(146, 179, 171);
 }
 
 @keyframes App-logo-spin {
